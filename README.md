@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/asif53841437" target="blank"><img src="https://img.shields.io/twitter/follow/asif53841437?logo=twitter&style=for-the-badge" alt="asif53841437" /></a> </p>
 
-- <a href="https://asif-malik.vercel.app/" target="blank">Persona Portfolio</a>
+- <a href="https://asif-malik.vercel.app/" target="blank">Personal Portfolio</a>
 
 - 📫 How to reach me **asifmalik.aktu@gmail.com**
 
